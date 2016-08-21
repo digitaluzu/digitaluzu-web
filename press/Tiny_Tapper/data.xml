@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Tiny Tapper</title>
+	<release-date>18 March, 2014</release-date>
+	<!-- <website>http://digitaluzu.com/tinytapper</website> -->
+	<favicon-url>http://digitaluzu.com/images/tinytapper_favicon.png</favicon-url>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Apple App Store (iOS)</name>
+			<link>https://itunes.apple.com/app/tiny-tapper/id828759506?mt=8&amp;uo=4</link>
+		</platform>
+		<platform>
+			<name>Google Play (Android)</name>
+			<link>https://play.google.com/store/apps/details?id=com.DigitalUzu.TinyTapper</link>
+		</platform>
+	</platforms>
+
+	<prices>
+		<price>
+			<!-- <currency></currency> -->
+			<value>$0.99</value>
+		</price>
+	</prices>
+
+	<description>
+	Tiny Tapper is a simple and fun game for toddlers and young kids. Tap or drag on the screen to create objects, interact with the environment, and create enjoyable melodies. Keep tapping to make objects disappear into colorful bursts of fireworks!
+	&lt;br&gt;&lt;br&gt;
+	Beautifully handcrafted and animated backgrounds, plus soothing sounds and effects will keep children entertained and engaged. Perfect for short distractions and car rides. :)
+	&lt;br&gt;&lt;br&gt;
+	Multiple object types (bubbles, asteroids, monsters…) and art themes are included, with more to be added in the future!
+	</description>
+
+	<history>
+	Tiny Tapper was created for my niece and nephew, who were 4 and 1 at the start of the project, and whose names appear in the credits of the game. They both love bubbles, so this game was designed to provide them with 'bubble popping' entertainment - even on rainy days. If any child can get even a few moments of enjoyment out of this game, it will have been a success.
+	</history>
+
+	<features>
+		<feature>Feel the bubbles and objects fly from your fingers</feature>
+		<feature>Select from many different, beautifully animated backgrounds and themes</feature>
+		<feature>Interact with gravity by tilting your device</feature>
+		<feature>Create fun melodies and tunes by tapping in different locations</feature>
+		<feature>Experience calming background music and smooth visuals</feature>
+		<feature>Baby and toddler tested and approved :)</feature>
+		<feature>No in-app purchases</feature>
+		<feature>iOS: Universal support</feature>
+	</features>
+
+	<trailers>
+		<trailer>
+			<name>Trailer:</name>
+			<youtube>E9ctMSFbGp4</youtube>
+		</trailer>
+	</trailers>
+
+	<!--
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>
+-->
+
+	<!--
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+	</quotes>
+-->
+
+	<!--
+	<additionals>
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>
+-->
+
+	<credits>
+		<credit>
+			<person>Shyam Guthikonda</person>
+			<role>Developer - Digital Uzu</role>
+		</credit>
+		<credit>
+			<person>Namiko Yodono</person>
+			<role>Additional Art / Logo / Support - Freelancer</role>
+		</credit>
+		<credit>
+			<person>Alucard, HorrorPen, ac3raven, dravenx, Kenney, Arsonide</person>
+			<role>Additional Art (&lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;Creative Commons License&lt;/a&gt; &amp; Public Domain)</role>
+		</credit>
+	</credits>
+</game>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Happy Bard</title>
+	<release-date>21 April, 2014</release-date>
+	<!-- <website>http://www.digitaluzu.com/happybard</website> -->
+	<favicon-url>http://digitaluzu.com/images/happybard_favicon.png</favicon-url>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Apple App Store (iOS)</name>
+			<link>http://itunes.apple.com/app/happy-bard/id855121015</link>
+		</platform>
+        <platform>
+			<name>Google Play (Android)</name>
+			<link>https://play.google.com/store/apps/details?id=com.DigitalUzu.HappyBard</link>
+		</platform>
+	</platforms>
+
+	<prices>
+		<price>
+			<currency>FREE</currency>
+		</price>
+	</prices>
+
+	<description>
+	Embark on an epic journey. Jump over pipes. Collect hats. Master the lute.
+	&lt;br&gt;&lt;br&gt;
+	SAVE... THE... WORLD!
+	</description>
+
+	<history>
+	Happy Bard was originally created for &lt;a href=&quot;http://itch.io/jam/flappyjam&quot;&gt;#flappyjam&lt;/a&gt; - a game jam with a theme of the infamous Flappy Bird game.
+	&lt;br&gt;&lt;br&gt;
+	The #flappyjam version of Happy Bard received a lot of positive feedback for its gameplay and visuals. There were Let’s Play videos popping up on YouTube, and it even received some press from sites such as TouchArcade and JayIsGames.
+	&lt;br&gt;&lt;br&gt;
+	Happy Bard was ranked #11 out of 762 #flappyjam entries.
+	&lt;br&gt;&lt;br&gt;
+	Eventually, Happy Bard was released for mobile devices in anticipation of the 23rd of April (often called &quot;Bards Day&quot;), as this day is associated with the birth and death of William Shakespeare.
+	</history>
+
+	<features>
+		<feature>Pipes.</feature>
+		<feature>Hats.</feature>
+		<feature>Double jumping.</feature>
+		<feature>Triple jumping.</feature>
+		<feature>Infinite jumping.</feature>
+		<feature>Procedural pipe positioning with height adjustment heuristics.</feature>
+		<feature>Infinite pipe generation for endless gameplay.</feature>
+		<feature>Online leaderboards and achievements.</feature>
+	</features>
+
+	<!--
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>7jQbITg0MSk</youtube>
+			<vimeo>23571681</vimeo>
+		</trailer>
+		<trailer>
+			<name>Gameplay Video</name>
+			<youtube>7jQbITg0MSk</youtube>
+			<vimeo>23571681</vimeo>
+		</trailer>
+	</trailers>
+-->
+	<!--
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+	</awards>
+	-->
+
+<!--
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+	</quotes>
+	-->
+
+	<additionals>
+		<additional>
+			<title>Happy Bard (Flappy Jam Post-Mortem)</title>
+			<description>Reviews and &quot;Let's Play&quot; videos of the original #flappyjam version of Happy Bard: </description>
+			<link>http://www.shy.am/2014/02/happy-bard/</link>
+		</additional>
+	</additionals>
+
+	<credits>
+		<credit>
+			<person>Shyam Guthikonda</person>
+			<role>Developer - Digital Uzu</role>
+		</credit>
+	</credits>
+</game>

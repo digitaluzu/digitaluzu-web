@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>BEAT DRIFT</title>
+	<release-date>20 December, 2013</release-date>
+	<website>http://www.beatdrift.com/</website>
+	<favicon-url>http://digitaluzu.com/images/beatdrift_favicon.png</favicon-url>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Apple App Store (iOS)</name>
+			<link>https://itunes.apple.com/app/beat-drift/id771771926?mt=8&amp;ign-mpt=uo%3D4</link>
+		</platform>
+        <platform>
+			<name>Google Play (Android)</name>
+			<link>https://play.google.com/store/apps/details?id=com.LunarPixelGames.beatdrift</link>
+		</platform>
+        <platform>
+			<name>Windows Phone</name>
+			<link>http://www.windowsphone.com/en-us/store/app/beat-drift/be667c12-1a98-4373-9995-2acf1d10a943</link>
+		</platform>
+		<platform>
+			<name>GameStick</name>
+			<link>https://zone.gamestick.tv/game_332</link>
+		</platform>
+		<platform>
+			<name>OUYA</name>
+			<link>https://www.ouya.tv/game/BEAT-DRIFT/</link>
+		</platform>
+	</platforms>
+
+	<prices>
+		<price>
+			<currency>iOS</currency>
+			<value>$0.99</value>
+		</price>
+		<price>
+			<currency>Google Play</currency>
+			<value>$0.99</value>
+		</price>
+		<price>
+			<currency>Windows Phone</currency>
+			<value>$0.99</value>
+		</price>
+		<price>
+			<currency>GameStick</currency>
+			<value>$2.00</value>
+		</price>
+		<price>
+			<currency>OUYA</currency>
+			<value>FREE*</value>
+		</price>
+	</prices>
+
+	<description>
+	BEAT DRIFT is a pure action game that will test your reflexes and hone your skills. Feel the beat. Drift with the music. Push the limits to survive.
+	&lt;br&gt;&lt;br&gt;
+	Travel down a block-filled tunnel at high speeds, avoid obstacles, and survive for 60 seconds to clear each level.
+	</description>
+
+	<history>
+	BEAT DRIFT was started by a small group of former AAA developer friends under the team name LunarPixelGames in Fall 2013. Taking inspiration from games/films such as Rez, Super Hexagon, Minecraft, and Tron, BEAT DRIFT has focused on creating a high-speed action experience that is extremely difficult to master yet completely fair. BEAT DRIFT was first released in December 2013 for iOS, and has evolved into something we are quite proud to call our first game.
+	&lt;br&gt;&lt;br&gt;
+	The following blog post details much of the early development process of BEAT DRIFT: &lt;a href=&quot;http://digitaluzu.com/96/beat-drift-bad-prototypes-can-be-good&quot;&gt;The Origins of BEAT DRIFT: How Bad Prototypes Can Be Good&lt;/a&gt;.
+	</history>
+
+	<features>
+		<feature>Addictive, short-burst gameplay (60 seconds or less)</feature>
+		<feature>Smooth and simple finely tuned controls</feature>
+		<feature>Catchy music and visuals</feature>
+		<feature>Feeling of progress and skill improvement</feature>
+		<feature>Increasingly challenging gameplay</feature>
+		<feature>Multiple difficulties</feature>
+		<feature>Procedurally generated levels</feature>
+		<feature>No in-app purchases</feature>
+		<feature>Universal support</feature>
+		<feature>Online leaderboards</feature>
+	</features>
+
+	<trailers>
+		<trailer>
+			<name>Trailer:</name>
+			<youtube>seidCy_WvJQ</youtube>
+		</trailer>
+		<trailer>
+			<name>Gameplay Video:</name>
+			<youtube>iEIhflx3XHY</youtube>
+		</trailer>
+	</trailers>
+
+	<awards>
+		<award>
+			<description>TouchArcade Game of the Week Nominee</description>
+			<info>19 December, 2013</info>
+		</award>
+	</awards>
+
+	<quotes>
+		<quote>
+			<description>...A must try game for fast paced reaction game lovers.</description>
+			<website>iDroidStation</website>
+			<link>http://idroidstation.com/review/beat-drift/</link>
+		</quote>
+		<quote>
+			<description>The best twitchy evasion game I've played since Super Hexagon.</description>
+			<website>IndieGameEnthusiast</website>
+			<link>http://indiegameenthusiast.blogspot.fr/2013/12/ios-spotlight-35-beat-drift.html?spref=fb</link>
+		</quote>
+		<quote>
+			<description>...One of those infuriatingly brilliant games like Super Hexagon and Pivvot.</description>
+			<website>Pocket Gamer</website>
+			<link>http://www.pocketgamer.co.uk/r/iPad/Beat+Drift/news.asp?c=56508</link>
+		</quote>
+		<quote>
+			<description>...It's kind of like if you crossed Super Hexagon with the Death Star run from the first Star Wars and add in a splash of Tron.</description>
+			<website>TheSixthAxis</website>
+			<link>http://www.thesixthaxis.com/2014/01/13/podcast-episode-125-game-dev-tycoon-the-last-of-us-and-resogun/</link>
+		</quote>
+		<quote>
+			<description>...It's techno beat and visuals will likely arrive as a delight to most.</description>
+			<name>Arron Hirst</name>
+			<website>148Apps</website>
+			<link>http://www.148apps.com/reviews/beat-drift-review/</link>
+		</quote>
+	</quotes>
+
+	<additionals>
+		<additional>
+			<title>BEAT DRIFT Soundtrack</title>
+			<description>Available for free from</description>
+			<link>https://soundcloud.com/jira-bryce/sets/beatdrift-soundtracks</link>
+		</additional>
+	</additionals>
+
+	<credits>
+		<credit>
+			<person>Lovisa Lionel</person>
+			<role>Team Lead, Design, Programming - Lunar Pixel Games</role>
+		</credit>
+		<credit>
+			<person>Shyam Guthikonda</person>
+			<role>Design Lead, Programming Lead - Lunar Pixel Games, Digital Uzu</role>
+		</credit>
+		<credit>
+			<person>Jira</person>
+			<role>Art Lead, Design, Music &amp; SFX - Lunar Pixel Games</role>
+		</credit>
+		<credit>
+			<person>Rendat</person>
+			<role>2d Art, Font Design, Logo - Lunar Pixel Games</role>
+		</credit>
+	</credits>
+</game>

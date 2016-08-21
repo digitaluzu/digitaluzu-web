@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>
+	<title>Digital Uzu</title>
+	<founding-date>October, 2013</founding-date>
+	<website>http://www.digitaluzu.com/</website>
+	<favicon-url>http://digitaluzu.com/favicon.png</favicon-url>
+	<based-in>Tokyo, Japan</based-in>
+
+	<press-contact>contact@digitaluzu.com</press-contact>
+	<!--
+	<phone>+00 (1) 22 33 44 55 66</phone>
+	<address>
+		<line>Address Line 1</line>
+		<line>Address Line 2</line>
+		<line>Address Line 3</line>
+	</address>
+-->
+
+	<socials>
+		<social>
+			<name>Digital Uzu Twitter</name>
+			<link>twitter.com/DigitalUzu</link>
+		</social>
+		<social>
+			<name>Digital Uzu Google+</name>
+			<link>https://plus.google.com/+DigitalUzu</link>
+		</social>
+		<social>
+			<name>Digital Uzu YouTube</name>
+			<link>http://www.youtube.com/user/digitaluzu</link>
+		</social>
+	</socials>
+
+	<description>
+		Digital Uzu is a software developer and consultant. Our mission is to build the highest quality software for both our clients and our customers. From apps to games and everything in between, we love building digital things. At Digital Uzu, we build digital.
+	</description>
+
+	<histories>
+		<history>
+			<header>Founding</header>
+			<text>Digital Uzu was founded in 2013 by Shyam Guthikonda, after leaving the AAA gaming industry, where he worked as a developer at Kojima Productions (Konami) on the Metal Gear video game series.</text>
+		</history>
+	</histories>
+
+	<!-- <trailers>
+		<trailer>
+			<name>BEAT DRIFT Trailer</name>
+			<youtube>seidCy_WvJQ</youtube>
+		</trailer>
+	</trailers> -->
+
+	<!--
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>
+
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+	</quotes>
+	-->
+
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->
+	<!--
+	<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>
+-->
+
+	<credits>
+		<credit>
+			<person>Shyam Guthikonda</person>
+			<role>Founder, Lead Developer</role>
+		</credit>
+	</credits>
+
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>contact@digitaluzu.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/DigitalUzu</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>digitaluzu.com</link>
+		</contact>
+	</contacts>
+</game>

@@ -12,7 +12,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #4062bb;
+  color: #4062BB;
   outline: none;
 }
 h1,
@@ -51,7 +51,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #4062bb;
+  background-color: #4062BB;
   color: white;
 }
 hr.star-primary:after {
@@ -62,7 +62,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #4062bb;
+  background: #4062BB;
   color: white;
 }
 header .container {
@@ -171,10 +171,10 @@ header .intro-text .desc {
   border: none;
 }
 .navbar-default {
-  background-color: #19177d;
+  background-color: #19177D;
 }
 ul.nav a:hover {
-  color: #4062bb !important;
+  color: #4062BB !important;
 }
 section {
   padding: 75px 0;
@@ -184,7 +184,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #4062bb;
+  background: #4062BB;
   color: white;
 }
 #projects .projects-item {
@@ -236,7 +236,7 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #4062bb;
+  color: #4062BB;
   background: white;
   border: solid 2px white;
 }
@@ -255,7 +255,7 @@ section.success {
 }
 .floating-label-form-group input:focus,
 .floating-label-form-group textarea:focus {
-  border-color: #19177d;
+  border-color: #19177D;
 }
 .floating-label-form-group textarea.form-control {
   height: 118px;
@@ -300,10 +300,11 @@ footer .footer-col {
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #19177d;
+  background-color: #19177D;
 }
 footer .footer-below .footer-text {
   font-size: 15px;
+  margin-bottom: 0px;
 }
 footer .footer-below .copyright-text {
   font-size: 13px;

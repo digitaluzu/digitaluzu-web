@@ -44,6 +44,8 @@ $(document).ready(function(){
     var e = 'contact';
     var t = 'digitaluzu';
     var n = '.com';
-    var r = 'mailto:' + e + '@' + t + n;
+    var txt = e + '@' + t + n;
+    var r = 'mailto:' + txt;
     $(".contact-email").attr("href", r);
+    $(".contact-email-text").text(txt);
 });

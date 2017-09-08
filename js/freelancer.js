@@ -48,4 +48,9 @@ $(document).ready(function(){
     var r = 'mailto:' + txt;
     $(".contact-email").attr("href", r);
     $(".contact-email-text").text(txt);
+    
+    // Set the copyright year:
+    $('.copyright-year').each(function() {
+      $(this).text((new Date()).getFullYear());
+    });
 });

@@ -41,8 +41,8 @@ $('.navbar-collapse ul li a').click(function() {
 
 $(document).ready(function(){
     // Email address obfuscation:
-    var e = 'contact';
-    var t = 'digitaluzu';
+    var e = 'digitaluzu';
+    var t = 'gmail';
     var n = '.com';
     var txt = e + '@' + t + n;
     var r = 'mailto:' + txt;
